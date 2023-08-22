@@ -1,0 +1,127 @@
+﻿@model Novena_Dsahboard.Models.Product
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Product</h4>
+<hr />
+<section class="is-hero-bar">
+    <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
+        <h1 class="title">
+            Profile
+        </h1>
+        <button class="button light">Add Employee</button>
+    </div>
+</section>
+
+<section class="section main-section">
+    <div class="grid grid-cols-1 gap-6 lg:grid-cols-2 mb-6">
+        <div class="card">
+            <header class="card-header">
+                <p class="card-header-title">
+                    <span class="icon"><i class="mdi mdi-account-circle"></i></span>
+                    Edit Profile
+                </p>
+            </header>
+
+
+            <div class="card-content">
+                <form method="post" enctype="multipart/form-data" asp-action="New">
+                    <div class="field">
+                        <label class="label">From</label>
+                        <div class="field-body">
+                            <div class="field">
+                                <div class="control icons-left">
+                                    <input class="input" type="text" placeholder="Heading" asp-for="Title">
+                                    <span class="icon left"><i class="mdi mdi-format-title"></i></span>
+                                </div>
+                            </div>
+                            <div class="field">
+                                <div class="control icons-left icons-right">
+                                    <input class="input" type="text" placeholder="Description" asp-for="Price">
+                                    <span class="icon left"><i class="mdi mdi-mail"></i></span>
+
+                                </div>
+                            </div>
+
+                            <div class="field">
+                                <div class="control icons-left icons-right">
+                                    <input class="input" placeholder="Picture" asp-for="ProImage">
+                                    <span class="icon left"><i class="mdi mdi-image"></i></span>
+
+                                </div>
+                            </div>
+                            <div class="field">
+                                <div class="control icons-left icons-right">
+                                    <input class="input" placeholder="Picture" asp-for="Description">
+                                    <span class="icon left"><i class="mdi mdi-image"></i></span>
+
+                                </div>
+                            </div>
+                            <div class="field">
+                                <div class="control icons-left icons-right">
+                                    <input class="input" placeholder="Picture" asp-for="Catagory">
+                                    <span class="icon left"><i class="mdi mdi-image"></i></span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="btn btn-danger">
+
+                        <input type="submit" value="save" class="btn btn-sm btn-primary rounded-0 text-uppercase" />
+                        <a asp-action="Index" class="btn btn-sm btn-primary rounded-0 text-uppercase"><i class="fas fa-fast-backward"></i> Back to List</a>
+
+                    </div>
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+@*<div class="row">
+        <div class="col-md-4">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                <div class="form-group">
+                    <label asp-for="Title" class="control-label"></label>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProImage" class="control-label"></label>
+                    <input asp-for="ProImage" class="form-control" />
+                    <span asp-validation-for="ProImage" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Catagory" class="control-label"></label>
+                    <input asp-for="Catagory" class="form-control" />
+                    <span asp-validation-for="Catagory" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </form>
+        </div>
+    </div>*@
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

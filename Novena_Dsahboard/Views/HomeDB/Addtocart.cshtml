@@ -1,0 +1,80 @@
+﻿@model Novena_Dsahboard.Models.Product
+@{
+    ViewBag.Title = "Addtocart";
+}
+@{ Layout = "~/Views/Shared/_LayoutWeb.cshtml"; }
+<section class="page-title bg-1">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+
+                    <h1 class="text-capitalize mb-5 text-lg">Product Details</h1>
+
+                    <!-- <ul class="list-inline breadcumb-nav">
+                      <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
+                      <li class="list-inline-item"><span class="text-white">/</span></li>
+                      <li class="list-inline-item"><a href="#" class="text-white-50">Our services</a></li>
+                    </ul> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+@using (@Html.BeginForm())
+
+{
+
+
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <img style="min-height:200px; width:200px;" src="~/imgProduct/@Model.ProImage" />
+            </div>
+
+
+
+            <div class="col-lg-8 col-md-8 col-sm-8">
+
+                <h1 style="color:midnightblue">Product Name: @Model.Title</h1>
+                <h2 >Price: @Model.Price PKR</h2>
+                <h6>Catagory: @Model.Catagory</h6>
+                <h6>Description: @Model.Description</h6>
+
+                @*<input type="number" name="qty" value="1" id="qty" min="1" />*@
+                <input type="number" name="qty" value="1" id="qty" />
+                <input type="submit" value="Submit" class="btn btn-default" />
+
+            </div>
+
+
+
+        </div>
+
+
+    </div>
+
+}
+
+<div>
+    @TempData["Cart"]
+    @TempData["total"]
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

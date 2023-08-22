@@ -1,0 +1,409 @@
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.deps.json
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.json
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.dev.json
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.dll
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.AssemblyReference.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfoInputs.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfo.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CoreCompileInputs.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.input.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.output.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorCoreGenerate.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutWeb.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.genruntimeconfig.cache
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CopyComplete
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Index.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Table.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Forms.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Profile.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Create.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Delete.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Details.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Edit.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Index.cshtml.g.cs
+C:\Users\sohai\source\repos\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Thankyou.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.deps.json
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.json
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.dev.json
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.dll
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfoInputs.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfo.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CoreCompileInputs.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.input.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.output.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorCoreGenerate.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Thankyou.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutWeb.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.genruntimeconfig.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CopyComplete
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRole.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUser.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\New.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Service.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.AssemblyReference.cache
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Casestudy.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateBlog.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateEvent.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Event.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateSpeaker.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Speaker.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateScientific.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Scientific.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateProduct.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Product.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\ChildCare.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\AdultHealth.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Antibiotics.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Diabetes.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\ImmumeMedicine.cshtml.g.cs
+C:\Users\sohai\OneDrive\Desktop\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\PainKillers.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.deps.json
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.json
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.dev.json
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.dll
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.AssemblyReference.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfoInputs.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfo.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CoreCompileInputs.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.input.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.output.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorCoreGenerate.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRole.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUser.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Thankyou.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\AdultHealth.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Antibiotics.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Casestudy.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\ChildCare.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateBlog.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateEvent.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateProduct.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateScientific.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateSpeaker.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Diabetes.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Event.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\ImmumeMedicine.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\New.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\PainKillers.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Product.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Scientific.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Service.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Speaker.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutWeb.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Create.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Delete.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Details.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Edit.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Index.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.genruntimeconfig.cache
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CopyComplete
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateDepartment.cshtml.g.cs
+C:\Users\Madina Computer\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Department.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.deps.json
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.json
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.runtimeconfig.dev.json
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.dll
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\bin\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfoInputs.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.AssemblyInfo.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CoreCompileInputs.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorAssemblyInfo.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.input.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.TagHelpers.output.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorCoreGenerate.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRole.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUser.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Appointments\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Casestudies\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Thankyou.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Events\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Feedbacks\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\AdultHealth.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Antibiotics.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Casestudy.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\ChildCare.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateBlog.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateDepartment.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateEvent.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateProduct.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateScientific.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateSpeaker.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Department.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Diabetes.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Event.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\ImmumeMedicine.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\New.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\PainKillers.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Product.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Scientific.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Service.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Speaker.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Scientifics\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutWeb.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\WebServices\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.RazorTargetAssemblyInfo.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.Views.pdb
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.dll
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.pdb
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.genruntimeconfig.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.CopyComplete
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Doctors\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Doctors\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Doctors\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Doctors\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Doctors\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\CreateDoctor.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Doctor.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\Addtocart.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\checkout.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\HomeDB\ListCart.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Checkouts\Create.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Checkouts\Delete.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Checkouts\Details.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Checkouts\Edit.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Checkouts\Index.cshtml.g.cs
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Novena_Dsahboard.csproj.AssemblyReference.cache
+C:\Users\sohai\Downloads\Novena_Dsahboard (2)\Novena_Dsahboard\Novena_Dsahboard\obj\Debug\netcoreapp2.1\Razor\Views\Checkouts\Thankyous.cshtml.g.cs

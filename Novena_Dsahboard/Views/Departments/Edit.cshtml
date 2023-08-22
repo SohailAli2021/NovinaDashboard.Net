@@ -1,0 +1,99 @@
+﻿@model Novena_Dsahboard.Models.Department
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Department</h4>
+<hr />
+
+<div class="card-content">
+    <form method="post" enctype="multipart/form-data">
+        <div class="field">
+            <label class="label">Edit</label>
+            <div class="field-body">
+                <div class="field">
+                    <div class="control icons-left">
+                        <input class="input" type="text" placeholder="Title" asp-for="Title">
+                        <span class="icon left"><i class="mdi mdi-format-title"></i></span>
+                    </div>
+                </div>
+                <div class="field">
+                    <div class="control icons-left icons-right">
+                        <input class="input" type="text" placeholder="Description" asp-for="Description">
+                        <span class="icon left"><i class="mdi mdi-mail"></i></span>
+
+                    </div>
+                </div>
+                <div class="field">
+                    <div class="control icons-left icons-right">
+                        <input class="input" type="text" placeholder="Description" asp-for="DescriptionB">
+                        <span class="icon left"><i class="mdi mdi-mail"></i></span>
+
+                    </div>
+                </div>
+
+                <div class="field">
+                    <div class="control icons-left icons-right">
+
+                        <input class="input" placeholder="Picture" asp-for="Image">
+                        <span class="icon left"><i class="mdi mdi-image"></i></span>
+
+                        <span asp-validation-for="Image" class="text-danger"></span>
+
+                    </div>
+                </div>
+               
+
+
+            </div>
+        </div>
+
+        <div class="btn btn-danger">
+
+            <input type="submit" value="save" class="btn btn-sm btn-primary rounded-0 text-uppercase" />
+            <a asp-action="Index" class="btn btn-sm btn-primary rounded-0 text-uppercase"><i class="fas fa-fast-backward"></i> Back to List</a>
+
+        </div>
+
+
+    </form>
+</div>
+@*<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescriptionB" class="control-label"></label>
+                <input asp-for="DescriptionB" class="form-control" />
+                <span asp-validation-for="DescriptionB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+

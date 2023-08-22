@@ -1,0 +1,173 @@
+﻿@model Novena_Dsahboard.ViewModel.WebServiceViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewData["Title"] = "New";
+}
+
+
+<section class="is-hero-bar">
+    <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
+        <h1 class="title">
+            Profile
+        </h1>
+        <button class="button light">Add Employee</button>
+    </div>
+</section>
+
+<section class="section main-section">
+    <div class="grid grid-cols-1 gap-6 lg:grid-cols-2 mb-6">
+        <div class="card">
+            <header class="card-header">
+                <p class="card-header-title">
+                    <span class="icon"><i class="mdi mdi-account-circle"></i></span>
+                    Edit Profile
+                </p>
+            </header>
+
+
+            <div class="card-content">
+                <form method="post" enctype="multipart/form-data" asp-action="New">
+                    <div class="field">
+                        <label class="label">From</label>
+                        <div class="field-body">
+                            <div class="field">
+                                <div class="control icons-left">
+                                    <input class="input" type="text" placeholder="Heading" asp-for="Heading">
+                                    <span class="icon left"><i class="mdi mdi-format-title"></i></span>
+                                </div>
+                            </div>
+                            <div class="field">
+                                <div class="control icons-left icons-right">
+                                    <input class="input" type="text" placeholder="Description" asp-for="Description">
+                                    <span class="icon left"><i class="mdi mdi-mail"></i></span>
+                                    
+                                </div>
+                            </div>
+
+                            <div class="field">
+                                <div class="control icons-left icons-right">
+                                    <input class="input" placeholder="Picture" asp-for="Picture">
+                                    <span class="icon left"><i class="mdi mdi-image"></i></span>
+                                   
+                                    <span asp-validation-for="Picture" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="btn btn-danger">
+                       
+                            <input type="submit" value="submit" class="btn btn-sm btn-primary rounded-0 text-uppercase" />
+                            <a asp-action="Index" class="btn btn-sm btn-primary rounded-0 text-uppercase"><i class="fas fa-fast-backward"></i> Back to List</a> 
+                       
+                    </div>
+
+
+                </form>
+                    </div>
+                    @*<div class="card-content">
+                        <form enctype="multipart/form-data" asp-action="New">
+                            <div class="row">
+                                <div class="col-md-9">
+                                    <div class="form-group">
+                                        <label asp-for="Heading" class="control-label"></label>
+                                        <input asp-for="Heading" class="form-control" />
+                                        <span asp-validation-for="Heading" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-md-">
+                                    <div class="form-group">
+                                        <label asp-for="Description" class="control-label"></label>
+                                        <input asp-for="Description" class="form-control" />
+                                        <span asp-validation-for="Description" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label asp-for="Picture" class="control-label"></label>
+                                        <div class="custom-file">
+                                            <input asp-for="Picture" class="custom-file-input" id="customFile">
+                                            <label class="custom-file-label" for="customFile">Choose file</label>
+                                        </div>
+                                        <span asp-validation-for="Picture" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" value="submit" class="btn btn-sm btn-primary rounded-0 text-uppercase" />
+                                <a asp-action="Index" class="btn btn-sm btn-primary rounded-0 text-uppercase"><i class="fas fa-fast-backward"></i> Back to List</a>
+                            </div>
+                        </form>
+
+                    </div>*@
+            </div>
+
+        </div>
+</section>
+
+@*<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />*@
+
+@*<div class="col-md-5 mx-auto py-2">
+        <div class="card">
+            <div class="card-header bg-primary text-uppercase text-white">
+                <h4>Add New </h4>
+            </div>
+            <div class="card-body">
+                <form enctype="multipart/form-data" asp-action="New">
+                    <div class="row">
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <label asp-for="Heading" class="control-label"></label>
+                                <input asp-for="Heading" class="form-control" />
+                                <span asp-validation-for="Heading" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <label asp-for="Description" class="control-label"></label>
+                                <input asp-for="Description" class="form-control" />
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <label asp-for="Picture" class="control-label"></label>
+                                <div class="custom-file">
+                                    <input asp-for="Picture" class="custom-file-input" id="customFile">
+                                    <label class="custom-file-label" for="customFile">Choose file</label>
+                                </div>
+                                <span asp-validation-for="Picture" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="submit" class="btn btn-sm btn-primary rounded-0 text-uppercase" />
+                        <a asp-action="Index" class="btn btn-sm btn-primary rounded-0 text-uppercase"><i class="fas fa-fast-backward"></i> Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>*@
+
+@section scripts{
+    <script type="text/javascript">
+
+        // Add the following code if you want the name of the file appear on select
+        $(".custom-file-input").on("change", function () {
+            var fileName = $(this).val().split("\\").pop();
+            $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+        });
+    </script>
+}
+

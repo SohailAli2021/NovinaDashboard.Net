@@ -1,0 +1,97 @@
+﻿@{
+    ViewData["Title"] = "ListCart";
+    Layout = "~/Views/Shared/_LayoutWeb.cshtml";
+}
+
+<script src="~/js/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".updateCart").click(function (event) {
+            event.preventDefault();
+            var quantity = $(".quantity_" + $(this).attr("data-id")).val();
+            console.log(quantity);
+            $.ajax({
+                type: "POST",
+                url:"@Url.Action("updateCart","HomeDB")",
+                data: {
+                    id: $(this).attr("data-id"),
+                    quantity:quantity
+                },
+                success: function (result) {
+                    window.location.href = '@Url.Action("ListCart","HomeDB")';
+                }
+            });
+        });
+    });
+</script>
+
+<section class="section main-section">
+    <h3 style="text-align:center"><b>Your Cart</b></h3>
+    <div class="card has-table">
+      
+        <div class="card-content">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            STT
+                        </th>
+                        <th>
+                            Title
+                        </th>
+                        <th>
+                            Image
+                        </th>
+                        <th>
+                            Quantity
+                        </th>
+                        <th>
+                            Price
+                        </th>
+                        <th>
+                       Total Price
+                        </th>
+                        <th>
+                            Delete
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int STT = 0;
+                        foreach (var item in ViewBag.carts)
+                        {
+                            string txt_class = "quantity_" + item.Product.Id;
+                            STT++;
+                            float total = item.Product.Price * item.qty;
+                            <tr>
+                                <td>@STT</td>
+                                <td>@item.Product.Title</td>
+                                <td><img src="~/imgProduct/@item.Product.ProImage" width="100" height="100" /></td>
+                                <td><input type="number" class="@txt_class" value="@item.qty" /></td>
+                                <td>@item.Product.Price</td>
+                                <td>@total</td>
+                              
+
+                                <td><a asp-controller="HomeDB" asp-action="deleteCart" asp-route-id="@item.Product.Id">Delete</a></td>
+                            </tr>
+                        }
+                    }
+
+
+
+                </tbody>
+            </table>
+
+
+        </div>
+    </div>
+    <a asp-controller="HomeDB" asp-action="Product" tyle="text-align:center;font-size:25px;" class="btn btn-main btn-round" >Continue Shopping</a>
+
+    <a asp-controller="checkouts" asp-action="Create" tyle="text-align:center;font-size:25px;" class="btn btn-main btn-round"  >Checkout</a>
+
+</section>
+
+
+
+              

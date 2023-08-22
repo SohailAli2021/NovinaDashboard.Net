@@ -1,0 +1,126 @@
+﻿@model IEnumerable<IdentityRole>
+@{
+    ViewData["Title"] = "View";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@*<div class="card-body login-card-body">
+        <form asp-action="CreateRole" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @if (Model.Any())
+                {
+                <a class="btn btn-primary mb-3" style="width:auto" asp-action="CreateRole" asp-controller="Administration">Add New Role</a>
+                foreach (var role in Model)
+                {
+                <div class="card mb-3">
+                    <div class="card-header">
+                        Role.Id : @role.Id
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@role.Name</h5>
+                    </div>
+                    <div class="card-footer">
+                        <a asp-controller="Administration" asp-action="EditRole" asp-route-id="@role.Id" class="btn btn-primary">Edit</a>
+                        <a href="#" class="btn btn-danger">Delete</a>
+                    </div>
+                </div>
+                }
+
+                }
+                else
+                {
+                <div class="card">
+                    <div class="card-header">
+                        No Role Created Yet
+                    </div>
+                    <div class="card-body">
+                        <h5>Use the button beolw to create a role</h5>
+                        <a class="btn btn-primary" style="width:auto"
+                           asp-controller="administration" asp-action="CreateRole">
+                            Create Role
+                        </a>
+                    </div>
+                </div>
+                }
+
+            </div>
+            <div>
+                <a asp-action="Index">Back to List</a>
+            </div>
+
+        </form>
+
+    </div>*@
+<body class="hold-transition login-page">
+    <div class="login-box">
+        <div class="login-logo">
+            <a href="../../index2.html"></a>
+        </div>
+        <!-- /.login-logo -->
+        <div class="card">
+            <div class="card-body login-card-body">
+                <form asp-action="CreateRole" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        @if (Model.Any())
+                        {
+                            <a class="btn btn-primary mb-3" style="width:auto" asp-action="CreateRole" asp-controller="Administration">Add New Role</a>
+                            foreach (var role in Model)
+                            {
+                                <div class="card mb-3">
+                                    <div class="card-header">
+                                        Role.Id : @role.Id
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">@role.Name</h5>
+                                    </div>
+                                    <div class="card-footer row">
+
+                                        <form method="post" asp-action="DeleteRole" asp-route-id="@role.Id">
+                                            <a asp-controller="Administration" asp-action="EditRole" asp-route-id="@role.Id" class="btn btn-primary">Edit</a>
+                                            <button type="submit" onclick="return confirm('Are you sure you went to delete  role: @role.Name')" class="btn btn-danger">Delete</button>
+
+                                        </form>
+
+
+                                    </div>
+                                </div>
+                            }
+
+                        }
+                        else
+                        {
+                            <div class="card">
+                                <div class="card-header">
+                                    No Role Created Yet
+                                </div>
+                                <div class="card-body">
+                                    <h5>Use the button beolw to create a role</h5>
+                                    <a class="btn btn-primary" style="width:auto"
+                                       asp-controller="administration" asp-action="CreateRole">
+                                        Create Role
+                                    </a>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                    <div>
+                        <a asp-action="Index">Back to List</a>
+                    </div>
+
+                </form>
+
+                <!-- /.social-auth-links -->
+
+            </div>
+            <!-- /.login-card-body -->
+        </div>
+    </div>
+    <!-- /.login-box -->
+</body>
+

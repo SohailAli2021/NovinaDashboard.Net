@@ -1,0 +1,137 @@
+﻿@model IEnumerable<IdentityUser>
+@{
+    ViewData["Title"] = "View";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@*<h1>View</h1>
+@if (Model.Any())
+{
+    <a class="btn btn-primary mb-3" style="width:auto" asp-action="CreateRole"
+       asp-controller="Administration">Add new role</a>
+
+    foreach (var user in Model)
+    {
+<div class="glyphicon-credit-card mb-3">
+    <div class="Card-header">
+        Role Id :@user.Id
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@user.UserName</h5>
+    </div>
+    <div class="card-footer row">
+        <form method="post" asp-action="DeleteUser" asp-route-id="@user.Id">
+            <a asp-controller="Administration" asp-action="EditUser" asp-route-id="@user.Id" class="btn btn-primary">Edit</a>
+            <button type="submit" onclick="return confirm('Are you sure you went to delete  user: @user.UserName')" class="btn btn-danger">Delete</button>
+
+        </form>
+
+    </div>*@
+    @*<div class="card-footer">
+
+            <a asp-action="EditUser" asp-controller="Administration" asp-route-id="@user.Id" class="btn btn-primary">Edit</a>
+            <form method="post" asp-controller="Administration" asp-action="DeleteUser" asp-route-id="@user.Id">
+
+                <span id="confirmDeletespan_@user.Id" style="display:none">
+                    <span>Are You Sure Want To delete</span>
+                    <button type="submit" class="btn btn-danger">Yes</button>
+                    <a href="#" class="btn-danger"
+                       onclick="confirmDeletespan('@user.Id',false)">No</a>
+                </span>
+                <span id="deleteSpan_@user.Id">
+                    <a href="#" class="btn-danger"
+                       onclick="confirmDeletespan('@user.Id',true)">Delete</a>
+                </span>
+            </form>
+        </div>*@
+@*</div>
+    }
+}
+else
+{
+    <div class="card">
+        <div class="Card-header">
+            No User created yet
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">
+                Use the Button below to create a User
+            </h5>
+            <a class="btn btn-primary" style="width:auto"
+               asp-controller="Account" asp-action="Register">
+                CreateRole
+            </a>
+        </div>
+    </div>
+}*@
+
+
+<body class="hold-transition login-page">
+    <div class="login-box">
+        <div class="login-logo">
+            <a href="../../index2.html"></a>
+        </div>
+
+        <div class="card">
+            <div class="card-body login-card-body">
+                <form asp-action="Register" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        @if (Model.Any())
+                        {
+                            <a class="btn btn-primary mb-3" style="width:auto" asp-action="Register" asp-controller="Account">Add New User</a>
+                            foreach (var user in Model)
+                            {
+                                <div class="card mb-3">
+                                    <div class="card-header">
+                                        User.Id : @user.Id
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">@user.UserName</h5>
+                                    </div>
+                                    <div class="card-footer row">
+                                        <form method="post" asp-action="DeleteUser" asp-route-id="@user.Id">
+                                            <a asp-controller="Administration" asp-action="EditUser" asp-route-id="@user.Id" class="btn btn-primary">Edit</a>
+                                            <button type="submit" onclick="return confirm('Are you sure you went to delete  user: @user.UserName')" class="btn btn-danger">Delete</button>
+
+                                        </form>
+
+                                    </div>
+                                </div>
+                            }
+
+                        }
+                        else
+                        {
+                            <div class="card">
+                                <div class="card-header">
+                                    No User Created Yet
+                                </div>
+                                <div class="card-body">
+                                    <h5>Use the button beolw to create a user</h5>
+                                    <a class="btn btn-primary" style="width:auto"
+                                       asp-controller="Account" asp-action="Register">
+                                        Create User
+                                    </a>
+                                </div>
+                            </div>
+                        }
+
+
+                    </div>
+                    <div>
+                        <a asp-action="Index">Back to List</a>
+                    </div>
+
+                </form>
+
+
+
+            </div>
+
+        </div>
+    </div>
+</body>

@@ -1,0 +1,107 @@
+﻿@model IEnumerable<Novena_Dsahboard.Models.Speaker>
+
+@{ Layout = "~/Views/Shared/_LayoutWeb.cshtml"; }
+
+
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap" rel="stylesheet">
+
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/Assets_Events/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Assets_Events/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Assets_Events/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/Assets_Events/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Assets_Events/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="~/Assets_Events/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Assets_Events/css/style.css" type="text/css">
+</head>
+
+<body>
+
+    <section class="page-title bg-1">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block text-center">
+                        <span class="text-white">Our Speaker</span>
+                        <h1 class="text-capitalize mb-5 text-lg">Who's Speaking</h1>
+
+                        <!-- <ul class="list-inline breadcumb-nav">
+                          <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
+                          <li class="list-inline-item"><span class="text-white">/</span></li>
+                          <li class="list-inline-item"><a href="#" class="text-white-50">Our blog</a></li>
+                        </ul> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+
+
+    <!-- Speaker Section Begin -->
+    <section class="speaker-section spad">
+        <div class="container">
+            <div class="row">
+                @foreach (var Speaker in Model)
+                {
+
+
+    <div class="col-sm-6">
+        <div class="speaker-item">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="si-pic">
+                        <img src="~/imgSpeaker/@Speaker.Picture" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="si-text">
+                        <div class="si-title">
+                            <h4>@Speaker.Name</h4>
+                            <span>@Speaker.Title</span>
+                        </div>
+                        <div class="si-social">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                        </div>
+                        <p>@Speaker.Decsription</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>}
+            </div>
+
+        </div>
+    </section>
+    <!-- Speaker Section End -->
+    <!-- Js Plugins -->
+    <script src="~/Assets_Events/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Assets_Events/js/bootstrap.min.js"></script>
+    <script src="~/Assets_Events/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/Assets_Events/js/jquery.countdown.min.js"></script>
+    <script src="~/Assets_Events/js/jquery.slicknav.js"></script>
+    <script src="~/Assets_Events/js/owl.carousel.min.js"></script>
+    <script src="~/Assets_Events/js/main.js"></script>
+</body>
+
+</html>

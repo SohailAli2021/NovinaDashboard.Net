@@ -1,0 +1,278 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+
+a {
+    color: #333333;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    outline: none;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+a:hover,
+a:active,
+a:focus {
+    outline: none;
+    text-decoration: none;
+    color: rgb(217, 31, 124);
+}
+
+.pE {
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    margin: 0 0 15px 0;
+    color: #454545;
+    font-weight: 400;
+}
+
+
+.hE
+ {
+    padding: 0;
+    margin: 0 0 15px 0;
+    color: #333333;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+/**********************************/
+/***** Layout & Section Title *****/
+/**********************************/
+.containerE {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 576px) {
+    .containerE {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .containerE {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+    .containerE {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .containerE {
+        max-width: 1140px;
+    }
+}
+
+.rowE {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.columnE {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+@media (min-width: 576px) {
+    .columnE {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .columnE {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .columnE {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+}
+
+
+
+
+
+
+
+
+/**********************************/
+/********** Effect #4 CSS *********/
+/**********************************/
+.effect-4 {
+    position: relative;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.effect-4 .effect-img {
+    font-size: 0;
+    overflow: hidden;
+}
+
+.effect-4 .effect-img img {
+    width: 100%;
+    height: auto;
+    transition: all .3s;
+}
+
+.effect-4:hover .effect-img img {
+    transform: scale(1.2);
+}
+
+.effect-4 .effect-text {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    bottom: 15px;
+    left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #d2cbcb;
+    overflow: hidden;
+    transition: all .3s ease-in;
+    opacity: 0;
+}
+
+.effect-4 .effect-text .effect-text-inner {
+    position: absolute;
+    padding: 15px;
+    z-index: 1;
+}
+
+.effect-4 .effect-text:before,
+.effect-4 .effect-text:after {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 0;
+    content: '';
+}
+
+.effect-4 .effect-text:before {
+    border-top: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
+    left: -100%;
+    top: 0;
+}
+
+.effect-4 .effect-text:after {
+    border-bottom: 3px solid #ffffff;
+    border-left: 3px solid #ffffff;
+    left: 100%;
+    bottom: 0;
+}
+
+@-webkit-keyframes left-up {
+    0% {
+        left: 100%;
+        height: 0;
+    }
+    50% {
+        left: 0;
+        height: 0;
+    }
+    100% {
+        height: 100%;
+        left: 0;
+    }
+}
+
+@-webkit-keyframes right-dn {
+    0% {
+        left: -100%;
+        height: 0;
+    }
+    50% {
+        left: 0;
+        height: 0;
+    }
+    100% {
+        height: 100%;
+        left: 0;
+    }
+}
+
+.effect-4:hover .effect-text{
+    opacity: 1;
+}
+
+.effect-4:hover .effect-text:after,
+.effect-4:hover .effect-text:before {
+    animation-delay: .1s;
+    animation-duration: .5s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards
+}
+
+.effect-4:hover .effect-text:after {
+    animation-name: left-up;
+}
+
+.effect-4:hover .effect-text:before {
+    animation-name: right-dn;
+}
+
+.effect-4 .effect-text .hE {
+    height: 45px;
+    color:#e311bc ;
+    font-size: 25px;
+    margin: 0;
+}
+
+.effect-4 .effect-text .pE {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+
+.effect-4 .effect-btn .btnE {
+    display: inline-block;
+    height: 35px;
+    padding: 7px 15px;
+    color: #333333;
+    background: #ec81d8;
+}

@@ -1,0 +1,37 @@
+﻿
+@model IEnumerable<Novena_Dsahboard.Models.Product>
+
+
+@{ Layout = "~/Views/Shared/_LayoutWeb.cshtml"; }
+
+
+
+<br />
+<br />
+
+
+
+
+<section class="section service-2">
+    <div class="container">
+        <div class="row">
+            @foreach (var Pro in Model)
+            {
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="service-block mb-5">
+                        <img src="~/imgProduct/@Pro.ProImage" alt="" class="img-fluid">
+                        <div class="content">
+                            <h4 class="mt-1 mb-2 title-color">@Pro.Title</h4>
+                            <p class="mb-1">@Pro.Price</p>
+                            <p class="mb-1">@Pro.Description</p>
+                            <p class="mb-1">@Pro.Catagory</p>
+                            <a style="text-align:center;font-size:15px;" class="btn btn-group-sm" asp-controller="HomeDB" asp-action="addCart" asp-route-id="@Pro.Id" class="addProduct">Add To Cart</a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</section>

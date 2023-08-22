@@ -1,0 +1,253 @@
+﻿@model Novena_Dsahboard.Models.Checkout
+
+@{
+    ViewData["Title"] = "Create";
+}
+@{ Layout = "~/Views/Shared/_LayoutWeb.cshtml"; }
+<hr />
+<div class="row justify-content-center">
+    <div class="col-lg-6">
+        <div class="section-title text-center">
+            <h2 class="text-md mb-2">Checkout</h2>
+            
+          
+        </div>
+    </div>
+</div>
+<div class="con">
+
+    <form asp-action="Create">
+
+        <div class="row">
+
+            <div class="col">
+
+                <h3 class="title">billing address</h3>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="inputBox">
+                    <span style="color:black">full name :</span>
+                    <input type="text" placeholder=" Enter Your Name" asp-for="FullName">
+                </div>
+                <div class="inputBox">
+                    <span>email :</span>
+                    <input type="email" placeholder="Enter Your Email" asp-for="Email">
+                </div>
+                <div class="inputBox">
+                    <span>address :</span>
+                    <input type="text" placeholder="room - street - locality" asp-for="Address">
+                </div>
+                <div class="inputBox">
+                    <span>city :</span>
+                    <input type="text" placeholder="Karachi" asp-for="City">
+                </div>
+
+                <div class="flex">
+                    <div class="inputBox">
+                        <span>state :</span>
+                        <input type="text" placeholder="Pakistan">
+                    </div>
+                    <div class="inputBox">
+                        <span>zip code :</span>
+                        <input type="text" placeholder="9700">
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col">
+
+                <h3 class="title">payment</h3>
+
+                <div class="inputBox">
+                    <span>cards accepted :</span>
+                    <img src="~/card_img.png" alt="">
+                </div>
+                <div class="inputBox">
+                    <span>name on card :</span>
+                    <input type="text" placeholder="Enter Your Name on card" asp-for="Cardname">
+                </div>
+                <div class="inputBox">
+                    <span>credit card number :</span>
+                    <input type="number" placeholder="1111-2222-3333-4444" asp-for="Cardnum">
+                </div>
+                <div class="inputBox">
+                    <span>exp month :</span>
+                    <input type="text" placeholder="january">
+                </div>
+
+                <div class="flex">
+                    <div class="inputBox">
+                        <span>exp year :</span>
+                        <input type="number" placeholder="2022">
+                    </div>
+                    <div class="inputBox">
+                        <span>COD :</span>
+                        <input type="checkbox" asp-for="COD">
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        @*<input type="submit" value="Confirm Paymen" class="btn btn-default" /*@>
+
+        <input type="submit" value="Confirm Payment" class="submit-btn" >
+
+    </form>
+
+</div>
+<style>
+   
+                
+
+  *{
+  font-family: 'Poppins', sans-serif;
+  margin:0; padding:0;
+  box-sizing: border-box;
+  outline: none; border:none;
+  text-transform: capitalize;
+  transition: all .2s linear;
+}
+
+.con{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:25px;
+  min-height: 110vh;
+
+}
+
+    .con form {
+        padding: 20px;
+        width: 700px;
+        background: #28178d;
+        box-shadow:#fff;
+
+    }
+
+.con form .row{
+  display: flex;
+  flex-wrap: wrap;
+  gap:15px;
+}
+
+.con form .row .col{
+  flex:1 1 250px;
+}
+
+.con form .row .col .title{
+  font-size: 20px;
+  color:#fff;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.con form .row .col .inputBox{
+  margin:15px 0;
+}
+
+    .con form .row .col .inputBox span {
+        margin-bottom: 10px;
+        display: block;
+        color: #fff;
+    }
+
+.con form .row .col .inputBox input{
+  width: 100%;
+  color:#fff;
+  border:1px solid #ccc;
+  padding:10px 15px;
+  font-size: 15px;
+  text-transform: none;
+}
+
+    .con form .row .col .inputBox input:focus {
+        border: 1px solid #fff;
+        color: #fff;
+    }
+
+.con form .row .col .flex{
+  display: flex;
+  gap:15px;
+}
+    span{
+        color:black;
+    }
+.con form .row .col .flex .inputBox{
+  margin-top: 5px;
+}
+
+.con form .row .col .inputBox img{
+  height: 34px;
+  margin-top: 5px;
+  filter: drop-shadow(0 0 1px #000);
+}
+
+.con form .submit-btn{
+  width: 100%;
+  padding:2px;
+
+  font-size: 20px;
+  background:Black;
+  color:#fff;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.con form .submit-btn:hover{
+  background: Black;
+}
+</style>
+@*<div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="FullName" class="control-label"></label>
+                    <input asp-for="FullName" class="form-control" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Address" class="control-label"></label>
+                    <input asp-for="Address" class="form-control" />
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="City" class="control-label"></label>
+                    <input asp-for="City" class="form-control" />
+                    <span asp-validation-for="City" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cardname" class="control-label"></label>
+                    <input asp-for="Cardname" class="form-control" />
+                    <span asp-validation-for="Cardname" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cardnum" class="control-label"></label>
+                    <input asp-for="Cardnum" class="form-control" />
+                    <span asp-validation-for="Cardnum" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div class="checkbox">
+                        <label>
+                            <input asp-for="COD" /> @Html.DisplayNameFor(model => model.COD)
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </form>
+        </div>
+    </div>*@
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+
